@@ -1,0 +1,114 @@
+\begin{thebibliography}{10}
+
+\bibitem{abdoun2012analyzing}
+Otman Abdoun, Jaafar Abouchabaka, and Chakir Tajani.
+\newblock Analyzing the performance of mutation operators to solve the
+  travelling salesman problem.
+\newblock {\em arXiv preprint arXiv:1203.3099}, 2012.
+
+\bibitem{ahmed2010genetic}
+Zakir~H Ahmed.
+\newblock Genetic algorithm for the traveling salesman problem using sequential
+  constructive crossover operator.
+\newblock {\em International Journal of Biometrics \& Bioinformatics (IJBB)},
+  3(6):96, 2010.
+
+\bibitem{baker1985adaptive}
+James~Edward Baker.
+\newblock Adaptive selection methods for genetic algorithms.
+\newblock In {\em Proceedings of an International Conference on Genetic
+  Algorithms and their applications}, pages 101--111. Hillsdale, New Jersey,
+  1985.
+
+\bibitem{GARS}
+Yang Chen, Jinglu Hu, Kotaro Hirasawa, and Songnian Yu.
+\newblock Gars: An improved genetic algorithm with reserve selection for global
+  optimization.
+\newblock In {\em Proceedings of the 9th Annual Conference on Genetic and
+  Evolutionary Computation}, GECCO '07, pages 1173--1178, New York, NY, USA,
+  2007. ACM.
+
+\bibitem{chen2008solving}
+Yang Chen, Jinglu Hu, Kotaro Hirasawa, and Songnian Yu.
+\newblock Solving deceptive problems using a genetic algorithm with reserve
+  selection.
+\newblock In {\em Evolutionary Computation, 2008. CEC 2008.(IEEE World Congress
+  on Computational Intelligence). IEEE Congress on}, pages 884--889. IEEE,
+  2008.
+
+\bibitem{milestonesWebsite}
+William Cook.
+\newblock Milestones in the solution of tsp instances.
+\newblock Avaliable:
+  \url{http://www.math.uwaterloo.ca/tsp/history/milestone.html}, 2015.
+\newblock Accessed: [29 November 2015].
+
+\bibitem{Dantzig}
+S.M.Johnson G.B.Dantzig, D.R.Fulkerson.
+\newblock Solution of a large scale traveling salesman problem.
+\newblock In {\em Technical Report}, page 510. RAND Corporation, Santa Monica,
+  California, USA, 1954.
+
+\bibitem{selectionMethods}
+Khalid Jebari and Mohammed Madiafi.
+\newblock Selection methods for genetic algorithms.
+\newblock {\em International Journal of Emerging Sciences}, 3(4), 2013.
+
+\bibitem{mlPlot}
+Pascal Lehwark.
+\newblock Mlplot.
+\newblock Avaliable : \url{http://sourceforge.net/projects/mlplot/}, 2011.
+\newblock Accessed: [01 December 2015].
+
+\bibitem{IB_GA}
+Fachao Li, Li~Da Xu, Chenxia Jin, and Hong Wang.
+\newblock Intelligent bionic genetic algorithm (ib-ga) and its convergence.
+\newblock {\em Expert Systems with Applications}, 38(7):8804 -- 8811, 2011.
+
+\bibitem{geneticsWebsite}
+Adam Marczyk.
+\newblock Genetic algorithms and evolutionary computation.
+\newblock Avaliable: \url{http://www.talkorigins.org/faqs/genalg/genalg.html},
+  2004.
+\newblock Accessed: [06 October 2015].
+
+\bibitem{MitchellBook}
+Thomas~M. Mitchell.
+\newblock {\em Machine Learning}.
+\newblock McGraw-Hill, Inc., New York, NY, USA, 1 edition, 1997.
+
+\bibitem{mohebifar2006new}
+Amin Mohebifar.
+\newblock New binary representation in genetic algorithms for solving tsp by
+  mapping permutations to a list of ordered numbers.
+\newblock {\em WSEAS Transactions on Computers Research}, 1(2):114--118, 2006.
+
+\bibitem{poli1998schema}
+Riccardo Poli and William~B Langdon.
+\newblock Schema theory for genetic programming with one-point crossover and
+  point mutation.
+\newblock {\em Evolutionary Computation}, 6(3):231--252, 1998.
+
+\bibitem{swarmIntelligence}
+Yong-Qin Tao, Du-Wu Cui, Xiang-Lin Miao, and Hao Chen.
+\newblock An improved swarm intelligence algorithm for solving tsp problem.
+\newblock In De-Shuang Huang, Laurent Heutte, and Marco Loog, editors, {\em
+  Advanced Intelligent Computing Theories and Applications. With Aspects of
+  Artificial Intelligence}, volume 4682 of {\em Lecture Notes in Computer
+  Science}, pages 813--822. Springer Berlin Heidelberg, 2007.
+
+\bibitem{tspMathWorld}
+Eric Weisstein.
+\newblock Traveling salesman problem.
+\newblock From MathWorld--A Wolfram Web Resource :
+  \url{http://mathworld.wolfram.com/TravelingSalesmanProblem.html}, 2014.
+\newblock Accessed: [01 December 2015].
+
+\bibitem{tspBackgroundWebsite}
+David~P. Williamson.
+\newblock The traveling salesman problem: An overview.
+\newblock Avaliable:
+  \url{http://people.orie.cornell.edu/dpw/talks/EbayJan2014.pdf}, 2014.
+\newblock Accessed: [29 November 2015].
+
+\end{thebibliography}
